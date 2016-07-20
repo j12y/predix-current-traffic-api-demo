@@ -1,13 +1,12 @@
-#! /usr/bin/python
+#! /usr/bin/env python
 
-"""
-This demonstration expects that you've already created and
-configured UAA and IE-Traffic Services that are bound to an
-app.
-
-Obviously error handling on requests, keys, etc. should be
-here but for brevity trying to keep it simple.
-"""
+# ******************************************************************************
+# Copyright (c) 2016 General Electric Company operating through GE Digital LLC
+#
+# Refer to LICENSE.txt for the terms and conditions of the license
+# governing this copyrighted work.  Those terms and conditions are incorporated
+# in their entirety herein.
+# ******************************************************************************
 
 import os
 import json
