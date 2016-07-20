@@ -1,0 +1,6 @@
+requests==0.11.1
+ipython==5.0.0
+virtualenv==15.0.2
+virtualenvwrapper==4.7.1
+websocket==0.2.1
+websocket-client==0.37.0
